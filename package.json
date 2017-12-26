@@ -1,0 +1,28 @@
+{
+  "name": "prefer-local",
+  "version": "0.0.0",
+  "description": "Prefer local boolean value over global",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitsinghs/prefer-local.git"
+  },
+  "keywords": [
+    "options"
+  ],
+  "author": "Mohit Singh <mohit@mohitsingh.in> (https://mohitsingh.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohitsinghs/prefer-local/issues"
+  },
+  "homepage": "https://github.com/mohitsinghs/prefer-local#readme",
+  "dependencies": {
+    "lodash.has": "^4.5.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
