@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mohitsinghs/prefer-local#readme",
   "dependencies": {
+    "lodash.get": "^4.4.2",
     "lodash.has": "^4.5.2"
   },
   "devDependencies": {

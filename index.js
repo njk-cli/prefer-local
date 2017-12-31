@@ -1,5 +1,6 @@
 'use strict'
 const has = require('lodash.has')
+const get = require('lodash.get')
 
 /**
  * If an Object have an inner property with a boolean value
@@ -14,5 +15,5 @@ const has = require('lodash.has')
  */
 module.exports = (src, key, prop) => {
   let propExist = has(src, key)
-  return (propExist && src[key]) || (!propExist && prop)
+  return (propExist && get(src, key)) || (!propExist && prop)
 }
