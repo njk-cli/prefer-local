@@ -4,7 +4,7 @@
 [![npm](https://badge.fury.io/js/prefer-local.svg)](http://badge.fury.io/js/prefer-local)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![license MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/mohitsinghs/prefer-local/blob/master/LICENSE)
-[![Coverage Status](https://coveralls.io/repos/github/mohitsinghs/prefer-local/badge.svg?branch=master)](https://coveralls.io/github/mohitsinghs/prefer-local?branch=master)
+[![codecov](https://codecov.io/gh/mohitsinghs/prefer-local/branch/master/graph/badge.svg)](https://codecov.io/gh/mohitsinghs/prefer-local)
 
 ## Install
 
