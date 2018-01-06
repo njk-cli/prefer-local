@@ -1,5 +1,7 @@
 # prefer-local
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mohitsinghs/prefer-local.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/mohitsinghs/prefer-local.svg)](https://travis-ci.org/mohitsinghs/prefer-local)
 [![npm](https://badge.fury.io/js/prefer-local.svg)](http://badge.fury.io/js/prefer-local)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
