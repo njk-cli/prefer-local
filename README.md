@@ -1,12 +1,11 @@
 # prefer-local
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mohitsinghs/prefer-local.svg)](https://greenkeeper.io/)
-
 [![Build Status](https://travis-ci.org/mohitsinghs/prefer-local.svg)](https://travis-ci.org/mohitsinghs/prefer-local)
 [![npm](https://badge.fury.io/js/prefer-local.svg)](http://badge.fury.io/js/prefer-local)
+[![codecov](https://codecov.io/gh/mohitsinghs/prefer-local/branch/master/graph/badge.svg)](https://codecov.io/gh/mohitsinghs/prefer-local)
+[![Greenkeeper badge](https://badges.greenkeeper.io/mohitsinghs/prefer-local.svg)](https://greenkeeper.io/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![license MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/mohitsinghs/prefer-local/blob/master/LICENSE)
-[![codecov](https://codecov.io/gh/mohitsinghs/prefer-local/branch/master/graph/badge.svg)](https://codecov.io/gh/mohitsinghs/prefer-local)
 
 ## Install
 
