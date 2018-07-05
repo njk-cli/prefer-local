@@ -2,9 +2,9 @@ import test from 'ava'
 import preferLocal from '.'
 
 let obj = {
-  'foo': {
-    'bar': true,
-    'baz': false
+  foo: {
+    bar: true,
+    baz: false
   }
 }
 
