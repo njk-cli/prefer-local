@@ -5,7 +5,6 @@
 [![codecov](https://codecov.io/gh/mohitsinghs/prefer-local/branch/master/graph/badge.svg)](https://codecov.io/gh/mohitsinghs/prefer-local)
 [![dependencies Status](https://david-dm.org/mohitsinghs/prefer-local/status.svg)](https://david-dm.org/mohitsinghs/prefer-local)
 [![devDependencies Status](https://david-dm.org/mohitsinghs/prefer-local/dev-status.svg)](https://david-dm.org/mohitsinghs/prefer-local?type=dev)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![license MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/mohitsinghs/prefer-local/blob/master/LICENSE)
 
 ## Install

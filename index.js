@@ -6,9 +6,9 @@ const get = require('lodash.get')
  * and have a global value then returns a boolean value
  * preferring inner property over global.
  *
- * @param {Object}  src  - source object containing inner property
- * @param {string}  key  - key of the inner property
- * @param {boolean} prop - value of global property
+ * @param {object}  src  source object containing inner property
+ * @param {string}  key  key of the inner property
+ * @param {boolean} prop value of global property
  *
  * @returns {boolean}
  */
