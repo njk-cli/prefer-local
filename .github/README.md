@@ -1,6 +1,6 @@
 # prefer-local
 
-[![Build Status](https://travis-ci.com/mohitsinghs/prefer-local.svg)](https://travis-ci.com/mohitsinghs/prefer-local)
+![Build Status](![ci](https://github.com/mohitsinghs/prefer-local/workflows/ci/badge.svg)
 [![npm](https://badge.fury.io/js/prefer-local.svg)](http://badge.fury.io/js/prefer-local)
 [![codecov](https://codecov.io/gh/mohitsinghs/prefer-local/branch/master/graph/badge.svg)](https://codecov.io/gh/mohitsinghs/prefer-local)
 [![dependencies Status](https://david-dm.org/mohitsinghs/prefer-local/status.svg)](https://david-dm.org/mohitsinghs/prefer-local)
