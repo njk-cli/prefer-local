@@ -11,8 +11,10 @@
 
 Install with [npm](https://npm.im/prefer-local)
 
-```console
-npm i prefer-local
+```bash
+npm install prefer-local
+// or
+yarn add prefer-local
 ```
 
 ## Uses
