@@ -1,6 +1,6 @@
 {
   "name": "prefer-local",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Prefer local boolean value over global",
   "main": "index.js",
   "scripts": {
