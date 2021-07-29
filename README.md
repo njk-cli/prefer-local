@@ -1,11 +1,15 @@
-# prefer-local
-
-![Build Status](![ci](https://github.com/mohitsinghs/prefer-local/workflows/ci/badge.svg)
-[![npm](https://badge.fury.io/js/prefer-local.svg)](http://badge.fury.io/js/prefer-local)
-[![codecov](https://codecov.io/gh/mohitsinghs/prefer-local/branch/master/graph/badge.svg)](https://codecov.io/gh/mohitsinghs/prefer-local)
-[![dependencies Status](https://david-dm.org/mohitsinghs/prefer-local/status.svg)](https://david-dm.org/mohitsinghs/prefer-local)
-[![devDependencies Status](https://david-dm.org/mohitsinghs/prefer-local/dev-status.svg)](https://david-dm.org/mohitsinghs/prefer-local?type=dev)
-[![license MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/mohitsinghs/prefer-local/blob/master/LICENSE)
+<h1 align="center">prefer-local</h1>
+<p align="center">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/mohitsinghs/prefer-local/ci?style=flat-square">
+  <a href="https://www.npmjs.com/package/prefer-local"><img src="https://img.shields.io/npm/v/prefer-local.svg?style=flat-square" alt="npm version"></a>
+  <img alt="node-current" src="https://img.shields.io/node/v/prefer-local?style=flat-square">
+  <a href="https://github.com/mohitsinghs/prefer-local/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="license MIT"></a>
+</p>
+<p align="center">
+  <b>Choosing between global and local values</b><br/>
+  <sub>Prefers local values over global when choosing between two</sub>
+  <br>
+</p>
 
 ## Install
 
