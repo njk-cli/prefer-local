@@ -1,6 +1,6 @@
 <h1 align="center">prefer-local</h1>
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/mohitsinghs/prefer-local/ci?style=flat-square">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/mohitsinghs/prefer-local/main.yml?style=flat-square">
   <a href="https://www.npmjs.com/package/prefer-local"><img src="https://img.shields.io/npm/v/prefer-local.svg?style=flat-square" alt="npm version"></a>
   <img alt="node-current" src="https://img.shields.io/node/v/prefer-local?style=flat-square">
   <a href="https://github.com/mohitsinghs/prefer-local/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="license MIT"></a>
